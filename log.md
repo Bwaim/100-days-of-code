@@ -12,5 +12,6 @@
 
 **Sources:** 
 1. [Model-View-ViewModel article](https://medium.com/upday-devs/android-architecture-patterns-part-3-model-view-viewmodel-e7eeee76b73b)
+2. [MVVM with the Data Binding Library article](https://labs.ribot.co.uk/approaching-android-with-mvvm-8ceec02d5442)
 2. [Android Architecture Repository](https://github.com/googlesamples/android-architecture)
 
