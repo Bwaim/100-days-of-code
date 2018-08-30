@@ -15,3 +15,10 @@
 2. [MVVM with the Data Binding Library article](https://labs.ribot.co.uk/approaching-android-with-mvvm-8ceec02d5442)
 2. [Android Architecture Repository](https://github.com/googlesamples/android-architecture)
 
+### Day 1: August 30, 2018
+
+**Today's Progress**: Refactoring layer data. Create the test of the repository
+
+**Thoughts:** I understand the principle of the repository, using and interface with callback to pass data to the ViewModel.
+
+**Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
