@@ -22,3 +22,11 @@
 **Thoughts:** I understand the principle of the repository, using and interface with callback to pass data to the ViewModel.
 
 **Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
+
+### Day 2: August 31, 2018
+
+**Today's Progress**: Starting to refactor the layer ViewModel with the use of LiveData. Initiate the test of the ViewModel
+
+**Thoughts:** I understand how to use LiveData and on test side the use of @Captor.
+
+**Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
