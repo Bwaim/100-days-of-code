@@ -30,3 +30,11 @@
 **Thoughts:** I understand how to use LiveData and on test side the use of @Captor.
 
 **Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
+
+### Day 3: September 1, 2018
+
+**Today's Progress**: Continuing to refactor the layer ViewModel and View with the use of LiveData.
+
+**Thoughts:** It's a bit difficult to put the databinding, i still need more documentation on it.
+
+**Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
