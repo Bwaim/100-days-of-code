@@ -38,3 +38,11 @@
 **Thoughts:** It's a bit difficult to put the databinding, i still need more documentation on it.
 
 **Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
+
+### Day 4: September 2, 2018
+
+**Today's Progress**: Initiate the data binding. Helper classes created.
+
+**Thoughts:** It was a bit difficult to put the databinding but finally it works.
+
+**Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
