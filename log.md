@@ -46,3 +46,11 @@
 **Thoughts:** It was a bit difficult to put the databinding but finally it works.
 
 **Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
+
+### Day 5: September 3, 2018
+
+**Today's Progress**: Finish the initial data binding.
+
+**Thoughts:** Trying to write tests at same time.
+
+**Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
