@@ -54,3 +54,11 @@
 **Thoughts:** Trying to write tests at same time.
 
 **Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
+
+### Day 6: September 4, 2018
+
+**Today's Progress**: Refactor a bit the ModelView for testing purpose. Add some tests of the ModelView
+
+**Thoughts:** Well architecture the code to facilitate the tests.
+
+**Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
