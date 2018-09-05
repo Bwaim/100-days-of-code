@@ -62,3 +62,11 @@
 **Thoughts:** Well architecture the code to facilitate the tests.
 
 **Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
+
+### Day 7: September 5, 2018
+
+**Today's Progress**: Add initial tests of the UI
+
+**Thoughts:** 
+
+**Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
