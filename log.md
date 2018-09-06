@@ -70,3 +70,11 @@
 **Thoughts:** 
 
 **Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
+
+### Day 8: September 6, 2018
+
+**Today's Progress**: Refactor the UI with the ConstraintLayout
+
+**Thoughts:** It's very simple to use the graphic designer for the ConstraintLayout
+
+**Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
