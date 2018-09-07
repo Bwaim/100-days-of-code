@@ -78,3 +78,11 @@
 **Thoughts:** It's very simple to use the graphic designer for the ConstraintLayout
 
 **Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
+
+### Day 9: September 7, 2018
+
+**Today's Progress**: Refactor the UI in two fragment to reuse them in the landscape layout
+
+**Thoughts:** Understanding better how the fragment works
+
+**Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
