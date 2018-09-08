@@ -86,3 +86,11 @@
 **Thoughts:** Understanding better how the fragment works
 
 **Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
+
+### Day 10: September 8, 2018
+
+**Today's Progress**: Add the countDownTimer to the ViewModel and implement the logic part of the start countdown functionality
+
+**Thoughts:** Learning how to separate dependencies for easy testing
+
+**Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
