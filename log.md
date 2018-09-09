@@ -94,3 +94,11 @@
 **Thoughts:** Learning how to separate dependencies for easy testing
 
 **Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
+
+### Day 11: September 9, 2018
+
+**Today's Progress**: Finalize the start pause timer functionality
+
+**Thoughts:** 
+
+**Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
