@@ -102,3 +102,11 @@
 **Thoughts:** 
 
 **Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
+
+### Day 12: September 10, 2018
+
+**Today's Progress**: Add the reset timer functionality
+
+**Thoughts:** It's very easy to add a new functionality once the architecture is done
+
+**Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
