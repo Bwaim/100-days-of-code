@@ -110,3 +110,11 @@
 **Thoughts:** It's very easy to add a new functionality once the architecture is done
 
 **Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
+
+### Day 13: September 11, 2018
+
+**Today's Progress**: Add the syntax error functionality in the ViewModel
+
+**Thoughts:** Don't forget to update previous tests
+
+**Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
