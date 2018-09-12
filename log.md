@@ -118,3 +118,11 @@
 **Thoughts:** Don't forget to update previous tests
 
 **Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
+
+### Day 14: September 12, 2018
+
+**Today's Progress**: Refactor some click listener, start implementing the update of the score
+
+**Thoughts:** With a LiveData on an object, if you update a property, the ui is not notified !
+
+**Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
