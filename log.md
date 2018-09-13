@@ -126,3 +126,11 @@
 **Thoughts:** With a LiveData on an object, if you update a property, the ui is not notified !
 
 **Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
+
+### Day 15: September 13, 2018
+
+**Today's Progress**: Correct the use of LiveData for correct update. Add parameterized test
+
+**Thoughts:** Parameterized tests are cool !
+
+**Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
