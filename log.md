@@ -134,3 +134,11 @@
 **Thoughts:** Parameterized tests are cool !
 
 **Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
+
+### Day 16: September 14, 2018
+
+**Today's Progress**: Add logic error functionality. Automate unlock screen for test !
+
+**Thoughts:** 
+
+**Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
