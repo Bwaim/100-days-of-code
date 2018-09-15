@@ -142,3 +142,11 @@
 **Thoughts:** 
 
 **Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
+
+### Day 17: September 15, 2018
+
+**Today's Progress**: Add logic error functionality in ui and virus attack functionality
+
+**Thoughts:** Next step add library (ButterKnife and Dagger2)
+
+**Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
