@@ -150,3 +150,11 @@
 **Thoughts:** Next step add library (ButterKnife and Dagger2)
 
 **Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
+
+### Day 18: September 16, 2018
+
+**Today's Progress**: Add the display of the winner, read documentation about butterknife
+
+**Thoughts:** Next step add library (ButterKnife and Dagger2)
+
+**Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
