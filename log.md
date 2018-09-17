@@ -158,3 +158,11 @@
 **Thoughts:** Next step add library (ButterKnife and Dagger2)
 
 **Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
+
+### Day 19: September 17, 2018
+
+**Today's Progress**: Refactor some code and start to use ButtreKnife
+
+**Thoughts:** ButterKnife is easy to use
+
+**Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
