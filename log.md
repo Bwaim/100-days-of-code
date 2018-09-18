@@ -161,8 +161,16 @@
 
 ### Day 19: September 17, 2018
 
-**Today's Progress**: Refactor some code and start to use ButtreKnife
+**Today's Progress**: Refactor some code and start to use ButterKnife
 
 **Thoughts:** ButterKnife is easy to use
+
+**Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
+
+### Day 20: September 18, 2018
+
+**Today's Progress**: Correct a bug, finish to set ButterKnife to learn that is useless with data binding
+
+**Thoughts:** ButterKnife is great but not useful with data binding. At least i learnt to use it.
 
 **Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
