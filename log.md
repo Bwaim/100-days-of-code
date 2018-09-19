@@ -174,3 +174,11 @@
 **Thoughts:** ButterKnife is great but not useful with data binding. At least i learnt to use it.
 
 **Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
+
+### Day 21: September 19, 2018
+
+**Today's Progress**: Correct a bug
+
+**Thoughts:** 
+
+**Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
