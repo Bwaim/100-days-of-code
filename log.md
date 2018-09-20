@@ -182,3 +182,11 @@
 **Thoughts:** 
 
 **Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
+
+### Day 22: September 20, 2018
+
+**Today's Progress**: Remove the use of ButterKnife as in this context is useless with data binding. Start to read dagger2 documentation
+
+**Thoughts:** Dagger2 seems a bit complicated at the first approach
+
+**Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
