@@ -190,3 +190,11 @@
 **Thoughts:** Dagger2 seems a bit complicated at the first approach
 
 **Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
+
+### Day 23: September 21, 2018
+
+**Today's Progress**: Create a specific branch for DI. Add dependencies to dagger2
+
+**Thoughts:** After reading some docs on dagger2, it seems more clear
+
+**Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
