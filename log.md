@@ -198,3 +198,11 @@
 **Thoughts:** After reading some docs on dagger2, it seems more clear
 
 **Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
+
+### Day 24: September 22, 2018
+
+**Today's Progress**: Add dagger2 to the project. Next step, correct the tests.
+
+**Thoughts:** Wow ! Was quite difficult !
+
+**Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
