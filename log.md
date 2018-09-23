@@ -206,3 +206,11 @@
 **Thoughts:** Wow ! Was quite difficult !
 
 **Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
+
+### Day 25: September 23, 2018
+
+**Today's Progress**: Correct the unit tests taking advantage of dagger2
+
+**Thoughts:** 
+
+**Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
