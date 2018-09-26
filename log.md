@@ -230,3 +230,11 @@
 **Thoughts:** 
 
 **Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
+
+### Day 28: September 26, 2018
+
+**Today's Progress**: Still not working but code is better, i'm desperate !
+
+**Thoughts:** disable databinding to check dagger2 errors
+
+**Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
