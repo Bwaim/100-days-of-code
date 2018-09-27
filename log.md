@@ -238,3 +238,11 @@
 **Thoughts:** disable databinding to check dagger2 errors
 
 **Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
+
+### Day 29: September 27, 2018
+
+**Today's Progress**: It's working ! An import of the data binding generated class was missing, auto import didn't work for it !
+
+**Thoughts:** Better understanding of dagger2
+
+**Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
