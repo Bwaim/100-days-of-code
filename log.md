@@ -246,3 +246,11 @@
 **Thoughts:** Better understanding of dagger2
 
 **Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
+
+### Day 30: September 28, 2018
+
+**Today's Progress**: Working on the modelView to improve the databinding
+
+**Thoughts:** 
+
+**Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
