@@ -254,3 +254,11 @@
 **Thoughts:** 
 
 **Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
+
+### Day 31: September 29, 2018
+
+**Today's Progress**: Working on the modelView to improve the databinding
+
+**Thoughts:** 
+
+**Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
