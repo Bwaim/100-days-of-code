@@ -270,3 +270,11 @@
 **Thoughts:** 
 
 **Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
+
+### Day 33: October 1, 2018
+
+**Today's Progress**: Minor improvment on unit tests
+
+**Thoughts:** 
+
+**Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
