@@ -278,3 +278,11 @@
 **Thoughts:** 
 
 **Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
+
+### Day 34: October 2, 2018
+
+**Today's Progress**: Check Robolectric
+
+**Thoughts:** Not convinced
+
+**Link to work:** [ScoreKeeper App](https://github.com/Bwaim/ScoreKeeper)
